@@ -1,10 +1,9 @@
 # Sobre mim
 
 - 👋 Hi, I’m @KetlinNunes
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in  aprender mais sobre linguagens de programação.
+- 🌱 I’m currently learning  a programar.
+- 💞️ I’m looking to collaborate on  na educação de crianças e jovens.
 
 <!---
 KetlinNunes/KetlinNunes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

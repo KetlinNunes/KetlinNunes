@@ -1,5 +1,4 @@
 # Sobre mim
-<h1 align="center"> Seu título aqui </h1>
 
 - 👋 Hi, I’m @KetlinNunes
 -  👍 Meu email de contato é nunes.moraes@escola.pr.gov.br

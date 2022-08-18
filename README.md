@@ -1,7 +1,5 @@
 ### Sobre mim
-- 👋 Hi, I’m @KetlinNunes{
-- <h1 align="center"> Sobre mim </h1>
-- }
+- 👋 Hi, I’m @KetlinNunes
 -  👍 Meu email de contato é nunes.moraes@escola.pr.gov.br
 - 👀 I’m interested in  aprender mais sobre linguagens de programação.
 - 🌱 I’m currently learning  a programar no SCRTACH E JAVASCRIPT.
